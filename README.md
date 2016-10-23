@@ -1,5 +1,21 @@
-# I AM X
+# i18n I AM X V2
 I AM X is a minimalist, modern and well-crafted responsive HTML5 resume template for any kind of creative professionals to show their education, experience, skills, and works history in a perfect way.
+
+It was designed by Ahmed Faruk https://github.com/ahmedfaruk/ and I made some changes:
+
+* Added Internationalization (Click on the lang icon)
+* Updated to Fon Awesome 4.6.3 and other of it's assets for future use
+* Included the different files you can use for compression (Remove them depending on your config or if you want to use something else)
+* Removed blog section as it doesn't make sense to manually input every entry.
+* Other things
+
+INTERNATIONALIZATION:
+
+The current setup is between English and Chinese. You can easily change this.
+
+1. Change the icon from "zh" to your language code.
+2. Change it as well in the script at the bottom of the index.
+3. in the i18n folder, you should find a file named i18n.js which contains all the keywords for the text. Only change the second value. 
 
 ![alt text](http://trendytheme.net/wp-content/uploads/edd/2015/10/Futani-Admin-Board-Preview-11.jpg "iamx")
 
