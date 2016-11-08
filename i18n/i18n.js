@@ -97,7 +97,7 @@ var arrLang = {
 		'mform-s5' : 'Send Message',
 		'mform-s6' : 'Address/Street',
 		'mform-s7' : 'Phone Number',
-		
+
 	},
 	'zh' : {
 		'engineer' : '工程师',
@@ -208,5 +208,10 @@ $(function(){
 			$(this).text(arrLang[lang][$(this).attr('key')]);
 		});
 	});
+	if(userLang.indexOf('zh') >= 0){
+		var lang = "zh";
+		$('.lang').each(function(index, element){
+			$(this).text(arrLang[lang][$(this).attr('key')]);
+		});
+	};
 });
-
