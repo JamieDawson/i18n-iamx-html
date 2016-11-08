@@ -20,8 +20,6 @@ The current setup is between English and Chinese. You can easily change this.
 
 ## To do
 
-* Detect browser language
-* Used browser language to fill in the text
 * Remove text from elements so you only modify the site once.
 
 
