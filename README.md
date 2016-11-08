@@ -26,7 +26,10 @@ The current setup is between English and Chinese. You can easily change this.
 ![alt text](http://trendytheme.net/wp-content/uploads/edd/2015/10/Futani-Admin-Board-Preview-11.jpg "iamx")
 
 #Demo:
-This Demo is for Ahmed's version:
+Ahmed's template with i18n:
+<a href="http://resume.andresarrieta.com/demo/" target="_blank">i18n Demo</a>
+
+Original Ahmed's version:
 
 <a href="http://trendytheme.net/demo/iamx/v/" target="_blank">Template Demo</a>
 
